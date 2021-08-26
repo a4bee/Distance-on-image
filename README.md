@@ -27,7 +27,7 @@ The align function built into the realsense library comes with a slight help her
 - ``def stop_stream()`` - Stop streaming
 
 ## Example usage:
-When you run the program, making sure you have your camera running, you can get one of the two output images depending on which method in your code. is uncommented.
+When you run the program, make sure you have your camera running, you can get one of the two output images depending on which method in your code is uncommented.
 
 ![depth_image](depth_image.gif)
 ![rgb_image](rgb_image.gif)
